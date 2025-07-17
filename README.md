@@ -38,7 +38,7 @@
 
 - 💬 I'm open to collaboration, mentorship, and learning new things.
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bonap) (replace with your actual link)
-- 📧 bonap@example.com (replace with your actual email)
+- 📧 bonap@example.com (replace with your actual email).
 
 ---
 
